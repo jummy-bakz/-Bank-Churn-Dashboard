@@ -18,5 +18,15 @@ This Bank Churn Dashboard provides an interactive way to analyze customer churn 
 * Database: SQL (for data extraction & analysis)
 
 
+## 📌 Recommendation:
+ To reduce churn, the bank should implement targeted retention strategies focused on at-risk segments. These include:
+✅ Personalized onboarding journeys for new customers to increase early engagement
+✅ Cross-selling campaigns that encourage deeper product adoption
+✅ Proactive outreach (email/SMS/call) to inactive or low-transaction customers
+✅ Monitoring customer satisfaction signals to detect early signs of disengagement
+
+As a data analyst, my approach goes beyond visuals — it’s about uncovering actionable insights that support better decision-making. This dashboard was designed with business impact in mind, helping stakeholders quickly identify patterns, ask the right questions, and take data-backed action to improve retention outcomes.
+
+
 
 
